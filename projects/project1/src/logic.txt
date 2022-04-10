@@ -1,0 +1,25 @@
+password manager:
+
+if users and password is null --> create new acc
+
+password: always hashed in sha1
+
+
+
+crud but simple
+
+creating acc:
+user
+password
+confirm
+
+logging in:
+user
+password
+
+update password:
+new ps
+
+
+delete:
+password
